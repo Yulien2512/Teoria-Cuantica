@@ -9,4 +9,10 @@
 3. El sistema calcula los valores propios del observable y la probabilidad de que el sistema transite a alguno de los vectores propios después de la observación.
 4. Se considera la dinámica del sistema. Ahora con una serie de matrices Un el sistema calcula el estado final a partir de un estado inicial.
 
- 
+## Ejercicios
+
+Modele en su librería los problemas
+4.3.1
+4.3.2
+4.4.1
+4.4.2
